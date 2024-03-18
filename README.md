@@ -1,6 +1,6 @@
 # Homework Assignment 13
 
-[![Assignment 13](https://github.com/PGE311/assignment13-solution/actions/workflows/main.yml/badge.svg)](https://github.com/PGE311/assignment13/actions/workflows/main.yml)
+[![Assignment 13](https://github.com/PGE311/assignment13/actions/workflows/main.yml/badge.svg)](https://github.com/PGE311/assignment13/actions/workflows/main.yml)
 
 Open the [Assignment 13 Jupyter Notebook](assignment13.ipynb) and follow the instructions.
 
